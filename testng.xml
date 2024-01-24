@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="SmokeTesting">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="newallure.NewTest2"/>
+      <class name="newallure.NewTest1"/>
+      <class name="newallure.NewTest3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- SmokeTesting -->

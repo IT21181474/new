@@ -1,0 +1,1 @@
+{"uuid":"5aaaa738-7029-4b30-b465-0d8b25abef02","name":"screenshot.FailTest.setup","children":["ee1479ab-6d54-4084-bda4-1a44ab19a69a"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1706094707255,"stop":1706094708651}],"afters":[],"start":1706094707255,"stop":1706094708652}

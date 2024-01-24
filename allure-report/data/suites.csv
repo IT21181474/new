@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jan 19 13:14:25 IST 2024","Fri Jan 19 13:14:25 IST 2024","11","Default suite","Default test","newallure.Testcase2Test","newallure.Testcase2Test","testMethod2","testMethod2",""
+"passed","Fri Jan 19 14:23:37 IST 2024","Fri Jan 19 14:23:37 IST 2024","10","SmokeTesting","Test","newallure.NewTest2","newallure.NewTest2","testMethod2","testMethod2",""
+"failed","Fri Jan 19 13:13:08 IST 2024","Fri Jan 19 13:13:08 IST 2024","15","Default suite","Default test","newallure.Testcase1Test","newallure.Testcase1Test","testMethod1","testMethod1",""
+"skipped","Fri Jan 19 14:23:37 IST 2024","Fri Jan 19 14:23:37 IST 2024","2","SmokeTesting","Test","newallure.NewTest3","newallure.NewTest3","testMethod3","testMethod3",""
+"passed","Fri Jan 19 11:56:29 IST 2024","Fri Jan 19 11:56:35 IST 2024","6052","Default suite","Default test","kapruka.com.kaprukaTest","kapruka.com.kaprukaTest","Register","Register",""
+"skipped","Fri Jan 19 14:23:37 IST 2024","Fri Jan 19 14:23:37 IST 2024","1","SmokeTesting","Test","newallure.NewTest3","newallure.NewTest3","testMethod4","testMethod4",""
+"failed","Fri Jan 19 14:23:37 IST 2024","Fri Jan 19 14:23:37 IST 2024","6","SmokeTesting","Test","newallure.NewTest1","newallure.NewTest1","testMethod1","testMethod1",""
